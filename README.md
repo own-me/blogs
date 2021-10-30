@@ -1,6 +1,6 @@
 # blogs
 
-### A Open Source copy of our Medium blogs
+### A open source copy of our Medium blogs.
 
 https://medium.com/@own.me.nft
 
