@@ -1,5 +1,16 @@
 # blogs
 
+### A Open Source copy of our Medium blogs
+
+https://medium.com/@own.me.nft
+
+## Table of Contents
+
+1. The Future of Web3 Adult Content. How are we using Porn in the Metaverse? NFTs. `future-of-web3-adult-content.md`
+
+https://medium.com/@own.me.nft/the-future-of-web3-adult-content-how-are-we-using-porn-in-the-metaverse-nfts-ad18d72cf464
+
+
 ## Community
 
 ![Navbar](https://user-images.githubusercontent.com/27584221/137842947-f80ab90a-cbba-4382-b729-dfb94e0e32f0.png)
